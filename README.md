@@ -1,13 +1,6 @@
-Here’s a clean and well-structured `README.md` file for your **CTA Bus Tracking API** built with **Node.js**, **Express**, and **MongoDB**, tested via **Thunder Client**.
-
----
-
-```markdown
 # 🚌 CTA Bus Tracking API
 
 A RESTful API for tracking CTA bus data, including routes, stops, directions, patterns, and vehicles. Built with **Node.js**, **Express**, and **MongoDB**, and tested using **Thunder Client** in VS Code.
-
----
 
 ## 🚀 Features
 
@@ -16,8 +9,6 @@ A RESTful API for tracking CTA bus data, including routes, stops, directions, pa
 - MongoDB for persistent data storage
 - Thunder Client-compatible for quick testing
 - Clean and scalable folder structure
-
----
 
 ## 📁 Project Structure
 
@@ -52,15 +43,11 @@ BUS-TRACKER-API/
 └── README.md
 ```
 
----
-
 ## 🛠️ Technologies Used
 
 - **Node.js** & **Express.js** — Backend and API logic
 - **MongoDB** with **Mongoose** — NoSQL database for storing bus data
 - **Thunder Client** — API testing directly inside VS Code
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -89,8 +76,6 @@ BUS-TRACKER-API/
 
    Server will run on: [http://localhost:5000](http://localhost:5000)
 
----
-
 ## 📬 API Endpoints Overview
 
 | Method | Endpoint               | Description                  |
@@ -104,16 +89,12 @@ BUS-TRACKER-API/
 
 > ⚡ All endpoints are Thunder Client ready – just import the workspace or test directly.
 
----
-
 ## 🔍 Thunder Client Setup (Optional)
 
 If you're using VS Code:
 1. Install [Thunder Client Extension](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 2. Open any route file or use `server.js` base URL
 3. Create test requests and hit "Send"
-
----
 
 ## 📌 TODO
 
@@ -122,9 +103,6 @@ If you're using VS Code:
 - Implement authentication for admin routes (optional)
 - Add Swagger or Postman documentation
 
----
-
 ## 📄 License
 
 MIT © Abeerah Aamir
-
